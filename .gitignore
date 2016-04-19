@@ -1,6 +1,7 @@
 # ignore output directory
 target
-
+.idea/
+sitemapgen4j.iml
 # ignore temporary vim files
 *.swp
 
